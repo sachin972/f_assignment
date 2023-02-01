@@ -1,0 +1,24 @@
+{
+    "audio":[
+        "all",
+        "bluetooth",
+        "wired-headphones",
+        "speakers",
+        "earbuds"
+    ],
+    "camera":[
+        "all",
+        "dslrs",
+        "drone",
+        "flashes"
+    ],
+    "computer":[
+
+    ],
+    "gaming":[
+
+    ],
+    "smart-home":[
+        
+    ]
+}
